@@ -23,7 +23,7 @@ We introduce AUDETER (AUdio DEepfake TEst Range), a large-scale, highly diverse 
 |         | MLS | Dev | 10 | 3,807 | 156.7 |
 |         |     | Test | 10 | 3,769 | 154.9 |
 
-**Table 2: The organisation of the AUDETER dataset.**
+**Table 2: The structure of the AUDETER dataset.**
 
 ## Uploading in progress
 Due to the size of our dataset, we are uploading the dataset in progress. Thanks for your understanding.
