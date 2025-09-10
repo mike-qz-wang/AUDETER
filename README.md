@@ -31,7 +31,7 @@ Due to the size of our dataset, we are uploading the dataset in progress. Thanks
 You can view the upload in progress on [Hugging Face](https://huggingface.co/datasets/wqz995/AUDETER).
 
 ## Citation
-If you use AUDETER in your research, please consider the following BibTeX entry and giving us a star🌟!
+If you use AUDETER in your research, please consider the paper [![arXiv](https://img.shields.io/badge/arXiv-2509.04345-b31b1b.svg)](https://arxiv.org/abs/2509.04345) and giving us a star🌟!
 
 ```bibtex
 @article{wang2025audeter,
