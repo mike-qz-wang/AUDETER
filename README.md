@@ -29,3 +29,16 @@ We introduce AUDETER (AUdio DEepfake TEst Range), a large-scale, highly diverse 
 Due to the size of our dataset, we are uploading the dataset in progress. Thanks for your understanding.
 
 You can view the upload in progress on [Hugging Face](https://huggingface.co/datasets/wqz995/AUDETER).
+
+## Citation
+If you use AUDETER in your research, please consider the following BibTeX entry and giving us a star🌟!
+
+```bibtex
+@article{wang2025audeter,
+  title={AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds},
+  author={Wang, Qizhou and Huang, Hanxun and Pang, Guansong and Erfani, Sarah and Leckie, Christopher},
+  journal={arXiv preprint arXiv:2509.04345},
+  year={2025},
+  url={https://arxiv.org/abs/2509.04345}
+}
+```
