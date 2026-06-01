@@ -1,3 +1,5 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2509.04345-b31b1b.svg)](https://arxiv.org/abs/2509.04345) [![KDD 2026](https://img.shields.io/badge/KDD%202026-Accepted-1f6feb.svg)](https://kdd.org/kdd2026/)
+
 # AUDETER: A Large-scale Dataset for Deepfake Audio Detection in Open Worlds
 
 ## Dataset Description
